@@ -1,0 +1,65 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [134.862795, 34.783613]
+			},
+			"properties": {
+				"No": 1,
+				"Name": "曇川樋門",
+				"Image": "img/cctv_black.png"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [134.890092, 34.792341]
+			},
+			"properties": {
+				"No": 2,
+				"Name": "草谷川水門",
+				"Image": "img/cctv_red.png"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [134.898456, 34.794667]
+			},
+			"properties": {
+				"No": 3,
+				"Name": "都染樋門",
+				"Image": "img/cctv_black.png"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [134.879970, 34.801699]
+			},
+			"properties": {
+				"No": 5,
+				"Name": "両荘市民センター",
+				"Image": "img/cctv_black.png"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [134.869547, 34.784820]
+			},
+			"properties": {
+				"No": 6,
+				"Name": "五ヶ井ポンプ場",
+				"Image": "img/cctv_black.png"
+			}
+		}
+	]
+}
